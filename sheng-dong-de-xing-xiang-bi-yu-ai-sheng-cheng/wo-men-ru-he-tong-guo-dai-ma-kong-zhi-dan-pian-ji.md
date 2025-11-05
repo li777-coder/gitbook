@@ -16,7 +16,7 @@
 
 这个控制面板就是**寄存器（Register）**。
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../photo/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 * **每一个开关/旋钮**都对应机器人身体的一个具体功能。比如，A区的1号开关，拨到“开”，机器人左手的LED灯就会亮；拨到“关”，灯就灭。
 * **每一个指示灯**则会显示机器人当前的状态。比如，B区的3号指示灯亮了，表示它的“耳朵”（UART接口）听到了外部传来的信息。
